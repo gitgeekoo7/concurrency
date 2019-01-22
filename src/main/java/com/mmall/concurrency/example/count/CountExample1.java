@@ -44,4 +44,5 @@ public class CountExample1 {
     private static void add() {
         count++;
     }
+    
 }
